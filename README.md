@@ -27,7 +27,7 @@ I'm a data analyst and Python developer based in Auckland, with 7+ years of expe
 - Real-time analytics and reporting dashboards
 
 **[AudioBoost](https://github.com/Treadgold/AudioBoost)** - Audio processing tool
-- Python-based audio enhancement
+- Javascript audio enhancement
 
 ## 💼 Professional Background
 
