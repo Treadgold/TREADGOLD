@@ -20,14 +20,11 @@ I'm a data analyst and Python developer based in Auckland, with 7+ years of expe
 
 ## 🚀 Current Projects
 
-**[LifeLearners](https://github.com/Treadgold/homeschool)** - Full-stack event management platform for NZ homeschool communities
+**[EventHub](https://github.com/Treadgold/EventHub)** - Full-stack event management platform
 - FastAPI backend with async programming
-- Complex booking and payment workflows with Stripe integration
+- Simple, good looking modern interface.
 - AI-powered event creation using LLM function calling
 - Real-time analytics and reporting dashboards
-
-**[AudioBoost](https://github.com/Treadgold/AudioBoost)** - Audio processing tool
-- Javascript audio enhancement
 
 ## 💼 Professional Background
 
