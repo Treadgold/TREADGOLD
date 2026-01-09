@@ -1,51 +1,76 @@
 # Hi, I'm Michael 👋
+**Software Engineer | AI-Assisted Development | Systems Thinker**
 
-**Python Developer | Data Analyst | Problem Solver**
+I'm a software engineer based in Auckland, specializing in using AI coding agents as part of real-world engineering workflows. With 30+ years of systems-level experience and 8+ years of intensive Python development, I focus on architectural reasoning, agent orchestration, and building production-ready systems.
 
-I'm a data analyst and Python developer based in Auckland, with 7+ years of experience building tools that turn complex data into actionable insights. I love creating solutions that automate workflows, analyze patterns, and make life easier for users.
+## 🤖 How I Work With AI
+
+I treat coding agents as force multipliers, not replacements for engineering judgment:
+- **Spec-first development** - Write clear, testable specifications before delegating to agents
+- **Multi-agent orchestration** - Assign distinct roles (exploration, refactor, validation, documentation)
+- **Supervised iteration** - Review and refine agent output to maintain system integrity
+- **Human-in-the-loop** - Know when to rely on agents vs when to intervene manually
+
+I use Cursor daily for long-context prompting, code generation, and supervised refactoring of production codebases.
 
 ## 🔧 What I Work With
 
 **Languages & Frameworks:**
-- Python (FastAPI, Flask, pandas, SQLAlchemy)
-- SQL (PostgreSQL, database design)
-- Bash scripting & Linux administration
+- Python (FastAPI, Flask, SQLAlchemy, async programming, pandas)
+- SQL (PostgreSQL - schema design, optimization, complex queries)
+- Bash scripting & Linux systems administration
 
-**Tools & Technologies:**
-- Docker for containerization
-- Git for version control
-- REST API design
-- HTMX, HTML/CSS/JavaScript for frontend
-- AI/LLM integration (OpenAI, Anthropic, Ollama)
+**AI & Agent Tooling:**
+- Cursor (extensive daily use)
+- OpenAI, Anthropic, Ollama (local models)
+- Function calling, structured prompting, spec-driven generation
 
-## 🚀 Current Projects
+**Infrastructure:**
+- Docker & containerized deployments
+- Linux (daily driver), SSH-based workflows
+- Nginx, reverse proxies
+- Git for collaborative development
 
-**[EventHub](https://github.com/Treadgold/EventHub)** - Full-stack event management platform
-- FastAPI backend with async programming
-- Simple, good looking modern interface.
-- AI-powered event creation using LLM function calling
-- Real-time analytics and reporting dashboards
+## 🚀 Featured Project
+
+**[EventHub](https://github.com/Treadgold/EventHub)** - Production full-stack platform built with AI-assisted development
+
+This project demonstrates my agent-centric engineering approach:
+- PostgreSQL schema with 15+ related tables designed with agent assistance
+- Async FastAPI backend with comprehensive API surface
+- AI-powered event creation using LLM function calling (GPT-4, Claude, local models)
+- OAuth2 authentication, Stripe payments, webhook handling
+- HTMX frontend with progressive enhancement
+- Dockerized deployment with zero-downtime updates
+
+**Agent Workflow Highlights:**
+- Used agents to explore and extend the growing codebase
+- Wrote detailed specs before delegating implementation
+- Employed agents for schema reasoning and refactor safety checks
+- Iteratively reviewed agent output to maintain architectural integrity
 
 ## 💼 Professional Background
 
-I've spent years building data analysis tools and automation systems in the insurance industry, where I:
-- Designed real-time data collection systems tracking operational metrics
-- Built Python tools automating complex business calculations
-- Created analytical dashboards for performance monitoring
-- Translated technical findings into business recommendations
+**Systems-Level Foundation:** 30+ years spanning professional programming (started at 16), Linux/Unix administration, database architecture, and hardware diagnostics. This long arc provides strong intuition about failure modes, edge cases, and system behavior.
 
-Before that, I cut my teeth in IT system administration, working with Linux servers and databases—experience that still shapes how I approach development today.
+**Real-World Engineering:** Built production tools and analytical systems in insurance operations, bridging business requirements with technical implementation. Experience reasoning about messy, real-world systems with ambiguous requirements and human factors.
 
-## 🎮 Beyond Code
+**Agent-Supervised Development:** Extensive experience using AI coding agents to debug, refactor, and extend non-greenfield codebases while maintaining human control over architecture and correctness.
 
-Lifelong gamer with a passion for complex, systems-driven games. I appreciate the kind of deep, interconnected mechanics that reward analytical thinking and long-term planning.
+## 🎯 Core Strengths
+
+- **Systems thinking** - Architecture, data models, failure modes, trade-offs
+- **Agent orchestration** - Decomposing complex problems, selecting appropriate agent roles
+- **Debugging unfamiliar code** - Tracing logic/state issues, incremental fixes
+- **Asynchronous engineering** - Clear written communication, reproducible reasoning
+- **Long-context reasoning** - Effective in ambiguous requirements and complex codebases
 
 ## 📫 Let's Connect
 
 - **Email:** laptoprecording@gmail.com
-- **Location:** Auckland, New Zealand
-- **GitHub:** You're already here! Feel free to explore my repositories
+- **Location:** Auckland, New Zealand (Remote-friendly, async timezone)
+- **Availability:** 10-20 hours/week initially, comfortable scaling up
 
 ---
 
-*Always learning, always building. Check out my pinned repositories below to see what I've been working on.*
+*Treating agent output as proposed diffs, not authoritative truth. Check out my repositories to see AI-assisted development in practice.*
